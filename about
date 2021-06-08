@@ -1,0 +1,6 @@
+This program was developed on an Arduino Uno, with an Adafruit 1947 2.8" capacitive touchscreen. 
+
+It should allow you to use a password (default 1, 1, 1, 1) to open it, and then select an amount of time to turn something on for. 
+
+While it is on, there is a countdown screen along with a pause/resume button. Upon completion of the countdown, you can either 
+go back (to the timer setup screen) or logout (back to the pin screen).
